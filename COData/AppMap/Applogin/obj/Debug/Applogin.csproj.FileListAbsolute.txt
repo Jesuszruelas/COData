@@ -1,0 +1,78 @@
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\bin\Debug\Applogin.exe.config
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\bin\Debug\Applogin.exe
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\bin\Debug\Applogin.pdb
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.pnlogin.resources
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.Properties.Resources.resources
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.csproj.GenerateResource.cache
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.exe
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.pdb
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.exe.config
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.MnPrincipal.resources
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.FrmCatCliente.resources
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.PantallaCarga.resources
+C:\Users\bryan\OneDrive\Documentos\Uni\Nueva carpeta\Applogin\Applogin\obj\Debug\Applogin.MnRegistro.resources
+C:\Users\Nitro\Desktop\codataprogramacion\CODATA 1.0.1\CODATA 1.0.1\Applogin\obj\Debug\Applogin.csproj.AssemblyReference.cache
+C:\Users\Nitro\Desktop\codataprogramacion\CODATA 1.0.1\CODATA 1.0.1\Applogin\obj\Debug\Applogin.exe.config
+C:\Users\Nitro\Desktop\codataprogramacion\CODATA 1.0.1\CODATA 1.0.1\Applogin\obj\Debug\Applogin.exe
+C:\Users\Nitro\Desktop\codataprogramacion\CODATA 1.0.1\CODATA 1.0.1\Applogin\obj\Debug\Applogin.pdb
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\bin\Debug\Applogin.exe.config
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\bin\Debug\Applogin.exe
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\bin\Debug\Applogin.pdb
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\bin\Debug\GMap.NET.Core.dll
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.csproj.AssemblyReference.cache
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.AdjuntarImagen.resources
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.pnlogin.resources
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.FrmCatCliente.resources
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.GoogleMaps.resources
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.MnPrincipal.resources
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.MnRegistro.resources
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.PantallaCarga.resources
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.Properties.Resources.resources
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.csproj.GenerateResource.cache
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.csproj.CoreCompileInputs.cache
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.csproj.Up2Date
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.exe
+C:\Users\UTS2025\Desktop\isai si lo borras me va valer verni\Applogin\obj\Debug\Applogin.pdb
+D:\COData\AppMap\Applogin\bin\Debug\Applogin.exe.config
+D:\COData\AppMap\Applogin\bin\Debug\Applogin.exe
+D:\COData\AppMap\Applogin\bin\Debug\Applogin.pdb
+D:\COData\AppMap\Applogin\bin\Debug\GMap.NET.Core.dll
+D:\COData\AppMap\Applogin\bin\Debug\GMap.NET.WindowsForms.dll
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.csproj.AssemblyReference.cache
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.AdjuntarImagen.resources
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.pnlogin.resources
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.FrmCatCliente.resources
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.GoogleMaps.resources
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.MnPrincipal.resources
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.MnRegistro.resources
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.PantallaCarga.resources
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.Properties.Resources.resources
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.csproj.GenerateResource.cache
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.csproj.CoreCompileInputs.cache
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.csproj.Up2Date
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.exe
+D:\COData\AppMap\Applogin\obj\Debug\Applogin.pdb
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\bin\Debug\Applogin.exe.config
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\bin\Debug\Applogin.exe
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\bin\Debug\Applogin.pdb
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\bin\Debug\GMap.NET.Core.dll
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.exe.config
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.AdjuntarImagen.resources
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.pnlogin.resources
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.FrmCatCliente.resources
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.GoogleMaps.resources
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.MnPrincipal.resources
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.MnRegistro.resources
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.PantallaCarga.resources
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.Properties.Resources.resources
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.csproj.GenerateResource.cache
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.csproj.Up2Date
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.exe
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.pdb
+C:\Users\jesus\OneDrive\Escritorio\COData\AppMap\Applogin\obj\Debug\Applogin.Seguimiento.resources

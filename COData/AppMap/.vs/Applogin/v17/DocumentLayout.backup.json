@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|c:\\users\\jesus\\onedrive\\escritorio\\codata\\appmap\\applogin\\seguimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\seguimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\seguimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\seguimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\mnprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\mnprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|c:\\users\\jesus\\onedrive\\escritorio\\codata\\appmap\\applogin\\adjuntarimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\adjuntarimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\googlemaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\googlemaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\mnprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\mnprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\googlemaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\googlemaps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\adjuntarimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\adjuntarimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\applogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF8C67D-3A11-41CA-8442-0C6658855C16}|Applogin\\Applogin.csproj|solutionrelative:applogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Form1.cs",
+              "RelativeDocumentMoniker": "Applogin\\Form1.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Form1.cs",
+              "RelativeToolTip": "Applogin\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T00:15:27.07Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MnPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\MnPrincipal.cs",
+              "RelativeDocumentMoniker": "Applogin\\MnPrincipal.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\MnPrincipal.cs",
+              "RelativeToolTip": "Applogin\\MnPrincipal.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:50:09.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoogleMaps.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\GoogleMaps.cs",
+              "RelativeDocumentMoniker": "Applogin\\GoogleMaps.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\GoogleMaps.cs",
+              "RelativeToolTip": "Applogin\\GoogleMaps.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:17:47.815Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdjuntarImagen.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\AdjuntarImagen.cs",
+              "RelativeDocumentMoniker": "Applogin\\AdjuntarImagen.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\AdjuntarImagen.cs",
+              "RelativeToolTip": "Applogin\\AdjuntarImagen.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvyMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:12:59.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seguimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Seguimiento.cs",
+              "RelativeDocumentMoniker": "Applogin\\Seguimiento.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Seguimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Applogin\\Seguimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T16:06:13.653Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MnPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\MnPrincipal.cs",
+              "RelativeDocumentMoniker": "Applogin\\MnPrincipal.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\MnPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Applogin\\MnPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T03:28:00.341Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Seguimiento.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Seguimiento.cs",
+              "RelativeDocumentMoniker": "Applogin\\Seguimiento.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Seguimiento.cs",
+              "RelativeToolTip": "Applogin\\Seguimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T01:08:15.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Conexion.cs",
+              "RelativeDocumentMoniker": "Applogin\\Conexion.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Conexion.cs",
+              "RelativeToolTip": "Applogin\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:57:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleMaps.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\GoogleMaps.cs",
+              "RelativeDocumentMoniker": "Applogin\\GoogleMaps.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\GoogleMaps.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Applogin\\GoogleMaps.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:30:29.975Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdjuntarImagen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\AdjuntarImagen.cs",
+              "RelativeDocumentMoniker": "Applogin\\AdjuntarImagen.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\AdjuntarImagen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Applogin\\AdjuntarImagen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:08:25.158Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Form1.cs",
+              "RelativeDocumentMoniker": "Applogin\\Form1.cs",
+              "ToolTip": "C:\\Users\\jesus\\OneDrive\\Escritorio\\COData\\AppMap\\Applogin\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Applogin\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:09:14.416Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
