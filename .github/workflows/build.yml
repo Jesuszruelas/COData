@@ -1,4 +1,4 @@
-name: SonarQube
+name: SonarQube COData
 on:
   push:
     branches:
@@ -14,16 +14,24 @@ jobs:
         uses: actions/setup-java@v4
         with:
           java-version: 17
-          distribution: 'zulu' # Alternative distribution options are available.
+          distribution: 'zulu'
+      
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x # Ajusta si usas .NET 6 o 7
+
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
+          fetch-depth: 0
+
       - name: Cache SonarQube Cloud packages
         uses: actions/cache@v4
         with:
           path: ~\sonar\cache
           key: ${{ runner.os }}-sonar
           restore-keys: ${{ runner.os }}-sonar
+
       - name: Cache SonarQube Cloud scanner
         id: cache-sonar-scanner
         uses: actions/cache@v4
@@ -31,17 +39,41 @@ jobs:
           path: ${{ runner.temp }}\scanner
           key: ${{ runner.os }}-sonar-scanner
           restore-keys: ${{ runner.os }}-sonar-scanner
+
       - name: Install SonarQube Cloud scanner
         if: steps.cache-sonar-scanner.outputs.cache-hit != 'true'
         shell: powershell
         run: |
           New-Item -Path ${{ runner.temp }}\scanner -ItemType Directory
           dotnet tool update dotnet-sonarscanner --tool-path ${{ runner.temp }}\scanner
+
       - name: Build and analyze
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          ${{ runner.temp }}\scanner\dotnet-sonarscanner begin /k:"Jesuszruelas_COData" /o:"jesuszruelas" /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
-          dotnet build
+          # 1. Iniciar Scanner con las llaves de COData
+          ${{ runner.temp }}\scanner\dotnet-sonarscanner begin /k:"Jesuszruelas_COData" /o:"jesuszruelas" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          
+          # 2. BÚSQUEDA INTELIGENTE DE ARCHIVOS
+          # Primero buscamos una Solución (.sln)
+          $targetFile = Get-ChildItem -Path . -Recurse -Filter *.sln | Select-Object -First 1
+          
+          # Si no hay .sln, buscamos el .csproj
+          if (-not $targetFile) {
+              Write-Host "No se encontró .sln, buscando .csproj..."
+              $targetFile = Get-ChildItem -Path . -Recurse -Filter *.csproj | Select-Object -First 1
+          }
+
+          if (-not $targetFile) { 
+              Write-Error "¡ERROR! No se encontró ni .sln ni .csproj en el repositorio."
+              exit 1 
+          }
+          
+          Write-Host "--> Archivo a compilar encontrado: $($targetFile.FullName)"
+
+          # 3. Compilar el archivo encontrado
+          dotnet build $targetFile.FullName
+          
+          # 4. Finalizar Scanner
           ${{ runner.temp }}\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
